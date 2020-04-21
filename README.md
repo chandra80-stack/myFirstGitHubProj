@@ -1,1 +1,1 @@
-# myFirstGitHubProj
+# myFirstGitHubRepo
